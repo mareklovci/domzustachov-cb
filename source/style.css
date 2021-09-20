@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .list-dash {
+        list-style-type: none;
+    }
+
+    .list-dash > li:before {
+        content: '\2014';
+        position: absolute;
+        margin-left: -20px;
+    }
+}
