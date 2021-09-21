@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/webstorm+all,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=webstorm+all,node
+# Created by https://www.toptal.com/developers/gitignore/api/webstorm+all,node,vuejs
+# Edit at https://www.toptal.com/developers/gitignore?templates=webstorm+all,node,vuejs
 
 ### Node ###
 # Logs
@@ -89,7 +89,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-# dist
+dist
 
 # Gatsby files
 .cache/
@@ -121,6 +121,13 @@ out
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+dist/
+npm-debug.log
+yarn-error.log
 
 ### WebStorm+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -214,4 +221,9 @@ modules.xml
 # Sonarlint plugin
 .idea/sonarlint
 
-# End of https://www.toptal.com/developers/gitignore/api/webstorm+all,node
+# End of https://www.toptal.com/developers/gitignore/api/webstorm+all,node,vuejs
+
+.DS_Store
+src/.temp
+node_modules
+.env.*
