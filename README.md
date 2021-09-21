@@ -1,23 +1,14 @@
-# DOMZUSTACHOV-CB
+# Default starter for Gridsome
 
-## Tailwind Installation
+This is the project you get when you run `gridsome create new-project`.
 
-Craete package.json
-```cmd
-$ npm init -y
-```
+### 1. Install Gridsome CLI tool if you don't have
 
-Install Tailwind
-```cmd
-$ npm i tailwindcss
-```
+`npm install --global @gridsome/cli`
 
-## Tailwind build
+### 2. Create a Gridsome project
 
-```cmd
-$ npm run build:css
-```
-
-## Ideas
-
-1. [Right or left align one flex item, while keeping the others centered](https://stackoverflow.com/questions/38948102/right-or-left-align-one-flex-item-while-keeping-the-others-centered)
+1. `gridsome create my-gridsome-site` to install default starter
+2. `cd my-gridsome-site` to open the folder
+3. `gridsome develop` to start a local dev server at `http://localhost:8080`
+4. Happy coding 🎉🙌

@@ -1,0 +1,139 @@
+/* Argent */
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFSuper.woff2') format('woff2'), url('./assets/fonts/ArgentCFSuper.woff') format('woff');
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFExtraBold.woff2') format('woff2'), url('./assets/fonts/ArgentCFExtraBold.woff') format('woff');
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFExtraBoldItalic.woff2') format('woff2'), url('./assets/fonts/ArgentCFExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFBold.woff2') format('woff2'), url('./assets/fonts/ArgentCFBold.woff') format('woff');
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFBoldItalic.woff2') format('woff2'), url('./assets/fonts/ArgentCFBoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFDemiBold.woff2') format('woff2'), url('./assets/fonts/ArgentCFDemiBold.woff') format('woff');
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFDemiBoldItalic.woff2') format('woff2'), url('./assets/fonts/ArgentCFDemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFRegular.woff2') format('woff2'), url('./assets/fonts/ArgentCFRegular.woff') format('woff');
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFRegularItalic.woff2') format('woff2'), url('./assets/fonts/ArgentCFRegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFLight.woff2') format('woff2'), url('./assets/fonts/ArgentCFLight.woff') format('woff');
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFLightItalic.woff2') format('woff2'), url('./assets/fonts/ArgentCFLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFThin.woff2') format('woff2'), url('./assets/fonts/ArgentCFThin.woff') format('woff');
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Argent";
+    src: url('./assets/fonts/ArgentCFThinItalic.woff2') format('woff2'), url('./assets/fonts/ArgentCFThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+/* Brandon */
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebBlack.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebBlack.woff') format('woff');
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebBlackItalic.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebBold.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebBold.woff') format('woff');
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebBoldItalic.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebBoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebMedium.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebMedium.woff') format('woff');
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebMediumItalic.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebRegular.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebRegular.woff') format('woff');
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebRegularItalic.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebRegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebLight.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebLight.woff') format('woff');
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebLightItalic.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebThin.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebThin.woff') format('woff');
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Brandon";
+    src: url('./assets/fonts/BrandonTextWebThinItalic.woff2') format('woff2'), url('./assets/fonts/BrandonTextWebThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
