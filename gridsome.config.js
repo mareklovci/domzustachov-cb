@@ -23,4 +23,6 @@ module.exports = {
             },
         },
     },
+    siteUrl: 'http://dechari.cz',
+    pathPrefix: '/domzustachov-cb',
 }

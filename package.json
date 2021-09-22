@@ -4,16 +4,22 @@
   "scripts": {
     "develop": "gridsome develop",
     "explore": "gridsome explore",
-    "build": "gridsome build"
+    "build": "gridsome build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "gridsome": "^0.7.0",
-    "tailwindcss": "^2.2.15"
+    "gridsome-plugin-netlify-redirects": "^1.0.0"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "autoprefixer": "^9.8.6",
     "gridsome-plugin-tailwindcss": "^4.1.1",
+    "postcss": "^7.0.36",
     "postcss-import": "^13.0.0",
-    "postcss-preset-env": "^6.7.0"
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.14"
   }
 }
