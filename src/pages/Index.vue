@@ -3,8 +3,8 @@
     <template slot="header">
       <header class="mt-48 mb-24">
         <div class="container text-center">
-          <h1 class="font-semibold text-6xl mb-24">Město, kde by chtěl žít každý</h1>
-          <p class="text-3xl mb-14">
+          <h1 class="font-semibold text-4xl mb-24">Město, kde by chtěl žít každý</h1>
+          <p class="text-2xl mb-14">
             Nadcházející víkend strávíme v Českých Budějovicích.<br>
             Někteří z nás poprvé, jiní se tu usadili natrvalo. Přinášíme informace k pobytu i tipy pro volný čas. Pryč
             se odtud nikomu chtít nebude.
@@ -23,7 +23,7 @@
           <img src="https://dechari.cz/01-namesti.jpg" class="w-full mb-4"
                alt="Náměstí České Budějovice"/>
           <div class="container text-right">
-            <p class="text-base font-brandon font-light">FOTO kasakphoto/Shutterstock</p>
+            <p class="text-xs font-brandon font-light">FOTO kasakphoto/Shutterstock</p>
           </div>
         </div>
         <article class="container">
@@ -35,7 +35,7 @@
           </p>
 
           <div class="bg-red-light border-t-6 border-red px-16 py-16 mt-16 mb-16 font-brandon font-normal" role="alert">
-            <p class="font-black text-red mb-9 text-3xl uppercase">Důležité upozornění</p>
+            <p class="font-black text-red mb-9 text-2xl uppercase">Důležité upozornění</p>
             <p>Při příjezdu do hotelu <b>je třeba prokázat bezinfekčnost</b> jedním z uvedených způsobů:</p>
             <ul class="list-disc list-inside mb-9">
               <li>před nejméně 14 dny ukončeným očkováním;</li>
@@ -51,7 +51,7 @@
             </p>
           </div>
 
-          <div class="space-y-3">
+          <div class="space-y-6">
             <p>
               Náš pobyt je s polopenzí. Vzhledem k pozdnímu pátečnímu příjezdu však začínáme až sobotní snídaní. Páteční
               večeři je ale možné vyřešit i celkem nízkorozpočtově, například zalitím polévky či nudlí. Všichni, kdo s
@@ -82,7 +82,7 @@
           </div>
 
           <div class="mt-16">
-            <h2 class="text-3xl font-normal mb-8">Kde zaparkovat</h2>
+            <h2 class="text-2xl font-normal mb-8">Kde zaparkovat</h2>
             <p>
               Všichni, kdo dorazí vlastním autem, mají možnost odstavit ho na nedalekém Senovážném náměstí (250 metrů
               od hotelu). V době od pátku 20.00 hodin do pondělí 8.00 hodin zcela zdarma. V jiný čas přijde hodina
@@ -94,7 +94,7 @@
             <img src="https://dechari.cz/02-sal.jpg" width="1920" class="w-full mb-4"
                  alt="Sál konzervatoře České Budějovice"/>
             <div class="container text-right">
-              <p class="text-base font-brandon font-light">FOTO Konzervatoř České Budějovice</p>
+              <p class="text-xs font-brandon font-light">FOTO Konzervatoř České Budějovice</p>
             </div>
           </div>
 
@@ -114,7 +114,7 @@
           </div>
 
           <div class="space-y-3 mb-16">
-            <h2 class="text-3xl font-normal mb-8">Kde se najíst, kam na pivo</h2>
+            <h2 class="text-2xl font-normal mb-8">Kde se najíst, kam na pivo</h2>
             <p>
               Kdo nebyl v <b>Masných krámech</b> (Krajinská 31/9), nebyl v Budějcích! Klasická restaurace pro turisty
               v historických kulisách. Na čepu je samozřejmě Budvar. Vyzkoušet tu můžete kvasnicový ležák
@@ -160,7 +160,7 @@
           </div>
 
           <div class="space-y-3 mb-16">
-            <h2 class="text-3xl font-normal mb-8">Na zmrzlinu do Zmrz.li</h2>
+            <h2 class="text-2xl font-normal mb-8">Na zmrzlinu do Zmrz.li</h2>
             <p>
               Seženete tu vanilkovou i čokoládovou, vedle nich však také třeba čaj masala, černé pivo či mátovou s
               pepřem. Majitelka si všechny vyrábí sama. Přijďte do <b>Zmrz.li</b> (Hradební 14) a nechte se překvapit
@@ -177,7 +177,7 @@
           </div>
 
           <div class="space-y-3 mb-16">
-            <h2 class="text-3xl font-normal mb-8">Co s načatým večerem</h2>
+            <h2 class="text-2xl font-normal mb-8">Co s načatým večerem</h2>
             <p>
               Jestli chcete proniknout mezi místní studenty, vydejte se za písničkou do hudebního klubu <b>Paradox</b>
               (Krajinská 33/5). Klasická diskotéka se vším, co k ní patří. <b>Vstup od 18 let.</b> Za rozbitý obličej či
@@ -195,7 +195,7 @@
           </div>
 
           <div class="space-y-3 mb-16">
-            <h2 class="text-3xl font-normal mb-8">Kam za nákupy</h2>
+            <h2 class="text-2xl font-normal mb-8">Kam za nákupy</h2>
             <p>
               Řadu obchodů najdete přímo na náměstí a v přilehlých ulicích. Kdo by potřeboval nakoupit potraviny,
               v Obchodní galerii Dvořák (rovněž na náměstí) najde <b>Normu</b>.
@@ -209,7 +209,7 @@
           </div>
 
           <div class="space-y-3 mb-16">
-            <h2 class="text-3xl font-normal mb-8">Tipy pro volné chvíle</h2>
+            <h2 class="text-2xl font-normal mb-8">Tipy pro volné chvíle</h2>
             <p>
               Do odjezdu doplníme. Těšit se můžete na sobotní společnou prohlídku Budějovického Budvaru.
             </p>

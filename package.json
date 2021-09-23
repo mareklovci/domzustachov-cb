@@ -10,8 +10,7 @@
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
-    "gridsome": "^0.7.0",
-    "gridsome-plugin-netlify-redirects": "^1.0.0"
+    "gridsome": "^0.7.0"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",

@@ -1,5 +1,5 @@
 <template>
-  <body class="font-argent font-light text-2xl">
+  <body class="font-argent font-thin text-lg">
   <div>
     <slot name="header"/>
     <slot name="main"/>
