@@ -34,7 +34,7 @@
             ubytování jsme ještě neměli.
           </p>
 
-          <div class="bg-red-light border-t-6 border-red px-16 py-16 mt-16 mb-16 font-brandon font-normal" role="alert">
+          <div class="bg-red-light border-t-6 border-red px-4 py-4 sm:px-8 sm:py-8 md:px-16 md:py-16 mt-16 mb-16 font-brandon font-normal" role="alert">
             <p class="font-black text-red mb-9 text-2xl uppercase">Důležité upozornění</p>
             <p>Při příjezdu do hotelu <b>je třeba prokázat bezinfekčnost</b> jedním z uvedených způsobů:</p>
             <ul class="list-disc list-inside mb-9">
@@ -105,7 +105,7 @@
             z toho rohu náměstí, kde stojí Černá věž s přilehlým kostelem sv. Mikuláše. Nemůžete minout.
           </p>
 
-          <div class="bg-red-light border-t-6 border-red px-16 py-16 mt-16 mb-16 font-brandon font-normal" role="alert">
+          <div class="bg-red-light border-t-6 border-red px-4 py-4 sm:px-8 sm:py-8 md:px-16 md:py-16 mt-16 mb-16 font-brandon font-normal" role="alert">
             <p>
               Upozorňujeme na <b>povinnost pohybovat se v prostorách konzervatoře a hotelu se zakrytými dýchacími
               cestami</b>. Roušku či respirátor je možné odložit až po vstupu na pokoj či po usazení ke stolu v
